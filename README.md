@@ -5,6 +5,11 @@ Here is the documentation about the construction and methods used in medical ima
 # *third-partly software*
 First off all we need to set up our environment in such way we run different software plataforms to construct our pipelines and to assess our partial results. So this software resources it's going to be a strong and powerfull help during the nexts developing tasks the table bellow sumarizes the main packages used in neuroscience apllications:
 
-Package name  | Documentation
-------------  | -------------
-Fsl           | https://fsl.fmrib.ox.ac.uk/fsl/fslwiki - automatic!
+Package name    | Documentation
+------------    | -------------
+ANTs            | https://github.com/ANTsX/ANTs/wiki/Compiling-ANTs-on-Linux-and-Mac-OS
+FSL             | https://fsl.fmrib.ox.ac.uk/fsl/fslwiki
+FreeSurfer      | https://surfer.nmr.mgh.harvard.edu/fswiki
+Nypipe
+  Nibabel
+  nilearn       | https://nipype.readthedocs.io/en/latest/
