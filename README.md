@@ -17,25 +17,13 @@ nilearn         | https://nilearn.github.io/
 
 Previously, we recommend to download the colection images in NIfTI and also you must to download all the .csv tabular data of the participants directly from ADNI page. There is a lot of important information to the pipeline can run without errors. Also, the colection needs to be in a BIDS (Brain Image Data Structure) format. This is a standar format in neuroimaging that allow reasearchers gather the information in a more stetic view by ordering your patients per folders and inside of each folder it's going to be sessions folders containing the particular information per each patient 
 
-```DATASET_DIRECTORY
-├── 027_S_0074
-│   ├── 3-plane_localizer
-│   │   ├── ...
-│   │   └── 2015-02-13_09_52_18.0
-│   │       └── S249015
-│   ├── ADNI_Brain_PET__Raw
-│   │   ├── ...
-│   │   └── 2019-01-23_15_54_06.0
-│   │       └── I1119527
-│   ├── ADNI_Brain_PET__Raw_AV45
-│   │   ├── ...
-│   │   └── 2015-04-01_16_18_44.0
-│   │       └── I481838
-│   ├── Axial_DTI
-│   │   ├── ...
-│   │   └── 2019-01-24_10_35_14.0
-│   │       └── S788290
+``` # ADNI DATASET_DIRECTORY
+├── sub-ADNI002S4171
+│   ├── SES-M00
+│   │   ├── sub-ADNI002S4171_ses-M00_scans.tsv
+│   │   └── anat
+│   │       └── sub-ADNI002S4171_ses-M00_T1W.nii.gz
 │   ├── ...
-├── 041_S_1260
+├── sub-ADNI006S4515
 │   ├── ...
 ├── ...```
