@@ -7,9 +7,9 @@ First off all we need to set up our environment in such way we run different sof
 
 Package name    | Documentation
 ------------    | -------------
+Dcm2nii         | https://nilearn.github.io/
+SPM             | https://www.fil.ion.ucl.ac.uk/spm/software/spm12/
 ANTs            | https://github.com/ANTsX/ANTs/wiki/Compiling-ANTs-on-Linux-and-Mac-OS
 FSL             | https://fsl.fmrib.ox.ac.uk/fsl/fslwiki
 FreeSurfer      | https://surfer.nmr.mgh.harvard.edu/fswiki
-Nypipe
-  Nibabel
-  nilearn       | https://nipype.readthedocs.io/en/latest/
+nilearn         | https://nilearn.github.io/
