@@ -27,3 +27,5 @@ Previously, we recommend to download the colection images in NIfTI and also you 
 ├── sub-ADNI006S4515
 │   ├── ...
 ├── ...```
+
+In our project the dataset conversion to BIDS was possible thanks to `<adni-2-bids>` from clinica.
