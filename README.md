@@ -1,4 +1,5 @@
-# AlzheimerDisease-3DCNN-Classifier, ¿What is it?
+# AlzheimerDisease-3DCNN-Classifier
+## What is it?
 Here is the documentation about the construction and methods used in medical image classification with MRI and 3D convolutional nueral networks. It's important to you'd been prior expirience with neuroscience software as ANTs, SPM12, FREESURFER, FSL or even Nipype among others. As a general view the project has 3 stages: Preprocessing pipeline development, model construction and trainning and interpretability analysis. The whole project was coded in python currently we just work with T1-Weighted MRI scans by the ADNI database
 
 # *third-partly software*
